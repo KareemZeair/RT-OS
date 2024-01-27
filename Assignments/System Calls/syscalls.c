@@ -1,3 +1,9 @@
+/*
+ * Author: Kareem Zeair
+ * Date: January 27, 2024
+ * Description: This program demonstrates system calls in C.
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
